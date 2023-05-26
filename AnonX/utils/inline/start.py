@@ -10,7 +10,7 @@ def start_pannel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
-                url=f"https://t.me/XDTELEGRAMBOT?startgroup=true",
+                url=f"https://t.me/LUCYK1NG_BOT?startgroup=true",
             )
         ],
         [
@@ -31,7 +31,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         [
             InlineKeyboardButton(
                 text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
-                url=f"https://t.me/XDTELEGRAMBOT?startgroup=true",
+                url=f"https://t.me/LUCYK1NG_BOT?startgroup=true",
             )
         ],
         [
